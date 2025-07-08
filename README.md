@@ -7,7 +7,7 @@ CS Master's student
 ## :palm_tree: Currently working on
 University projects :construction_worker: :construction:
   
-Testing and Data Analysis 👨🏻‍🔬
+Testing, Data migration and Analysis 👨🏻‍🔬
   
   
 ## Socials
