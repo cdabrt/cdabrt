@@ -5,7 +5,7 @@ CS Master's student
   
   
 ## :palm_tree: Currently working on
-University projects :construction_worker: :construction:
+Graphics Engine (personal project) :computer:
   
 Testing, Data migration and Analysis 👨🏻‍🔬
   
