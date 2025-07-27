@@ -5,7 +5,7 @@ CS Master's student
   
   
 ## :palm_tree: Currently working on
-Graphics Engine (personal project: ![](https://github.com/cdabrt/GraphicsEngine)) :computer:
+Graphics Engine (personal project: ![see repo](https://github.com/cdabrt/GraphicsEngine)) :computer:
   
 Testing, Data migration and Analysis 👨🏻‍🔬
   
