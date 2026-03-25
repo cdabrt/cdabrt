@@ -4,8 +4,8 @@ CS Master's student
   
   
   
-## :palm_tree: Currently working on
-Graphics Engine (personal project: [see repo](https://github.com/cdabrt/GraphicsEngine)) :computer:
+## :palm_tree: Worked on
+Intelligent regulatory compliance through agentic AI for ING Bank ([see repo](https://github.com/cdabrt/ING-AgenticAI)) :computer:
   
   
 ## Socials
